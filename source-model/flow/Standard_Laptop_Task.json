@@ -1,0 +1,14 @@
+{
+  "project": "Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer",
+  "platform": "ServiceNow",
+  "flow_name": "Standard Laptop Task",
+  "trigger": "Service Catalog",
+  "action": "Create Catalog Task",
+  "request_item": "Requested Item Record",
+  "table": "Catalog Task",
+  "short_description": "Laptop need to Configured",
+  "description": "Laptop need to Configured",
+  "assignment_group": "Hardware",
+  "approval": "Approved",
+  "expected_result": "After approval, a Catalog Task is created and assigned to the Hardware group."
+}
